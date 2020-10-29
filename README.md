@@ -1,5 +1,5 @@
 # A Movie Recommender System based on Okapi BM25
-Final project for 2019 Web Retrieval and Mining @ National Taiwan University
+Final project for 2019 Web Retrieval and Mining @ NTU CSIE
 
 ## Tech stack
 - MERN (MongoDB, Express, React, Node) for web application
